@@ -1,0 +1,24 @@
+# Number Guessing Game
+
+## Description
+A simple number guessing game built using Python.
+
+## How to Play
+- Computer selects a random number between 1 and 100.
+- User gets 7 attempts to guess the number.
+- The game gives hints: Too High or Too Low.
+- Displays the result when the game ends.
+
+## Technologies Used
+- Python
+
+## Concepts Learned
+- Random Module
+- Variables
+- While Loop
+- If-Else Statements
+- User Input
+- Break Statement
+
+## Author
+Bhavya
